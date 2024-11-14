@@ -15,7 +15,7 @@ Integração com Gifthub Actions para integração contínua e armazenamento de 
 - Mocha Junit Reporter: 2.0.4
 
 ## Instalação
-Instale cypress-cucumber-test com npm
+Instale cypress-cucumber com npm
 
 ```bash
   cd cypress-cucumber-test
@@ -30,3 +30,4 @@ Para rodar os testes, rode o seguinte comando
 ```
 ## Relatório dos testes
 .reports/html
+.reports/junit
