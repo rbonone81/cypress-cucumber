@@ -2,7 +2,7 @@
 Projeto de automação de testes web utilizando Cypress e Cucumber.
 
 ## Pré-requisitos
-1. Node JS
+- Node JS
 
 ## Dependências
 - Cypress: 13.15.2
