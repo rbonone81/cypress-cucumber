@@ -1,5 +1,8 @@
 # cypress-cucumber
 Projeto de automação de testes web utilizando Cypress e Cucumber.
+Feita a validação do fluxo de login de um ecommerce de teste bem simples (https://www.saucedemo.com/v1/). 
+Geração de relatórios HTML e XML.
+Integração com Gifthub Actions para integração contínua e armazenamento de artefatos.
 
 ## Pré-requisitos
 - Node JS
